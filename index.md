@@ -12,7 +12,7 @@ Confused? Good. You’ll just have to come along for a fun filled evening out to
 
 ## Performances
 
-All Performaces are at 7:30pm.
+All Performances are at 7:30pm.
 Tickets are $20 Adults / $15 Chile
 
 21/04/2021: ASHBURTON EVENTS CENTRE:  [Book Tickets](ateventcentre.co.nz)
