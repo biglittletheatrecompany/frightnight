@@ -16,7 +16,6 @@ Tickets are $20 Adults / $15 Chile
 22/4: LITTLE ANDROMEDA, CHRISTCHURCH: [Book Tickets](Littleandromeda.co.nz)
 
 23/04:  ISAAC ROYAL, CHRISTCHURCH: [Book Tickets](Eventbrite.co.nz)
-Eventbrite.co.nz
 
 24/04:  WINCHMORE HALL, Door Sales Only.
 
