@@ -1,7 +1,7 @@
 ![Earnest](earnest.jpg)
 
 
-*"After 10 years of gracing the Mid-Canterbury stage, you know what to expect when you walk into a show put together by the rising starts of the Big Little Theatre Company.  That's a polished, well put together and brilliantly executed performance featuring remarkable young talent"*  
+*"After 10 years of gracing the Mid-Canterbury stage, you know what to expect when you walk into a show put together by the rising stars of the Big Little Theatre Company.  That's a polished, well put together and brilliantly executed performance featuring remarkable young talent"*  
 (Ashburton Guardian, Nov 23, 2019: "A Shakespearean Masterpiece")
 
 # Big Little Theatre Company presents *The Importance of being Earnest*
