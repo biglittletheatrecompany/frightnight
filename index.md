@@ -1,6 +1,9 @@
 ![Earnest](earnest.jpg)
 
-# About the Show
+
+*"After 10 years of gracing the Mid-Canterbury stage, you know what to expect when you walk into a show put together by the rising starts of the Big Little Theatre Company.  That's a polished, well put together and brilliantly executed performance featuring remarkable young talent"*  (Ashburton Guardian, Nov 23, 2019: "A Shakespearean Masterpiece")
+
+# Big Little Theatre Company presents *The Importance of being Earnest*
 
 So what is the show about you ask? It’s a comedy of falsehoods, wit and questionable societal norms, Big Little Theatre Company's reimagining of Oscar Wilde's the Importance of Being Earnest will have you laughing out loud and hungry for a muffin.
 Jack is in love with Gwendolen. Algernon is in love with Cecily. Cecily is Jack's ward. Gwendolen is Algernon's cousin. Jack told Gwendolen his name was Ernest. Algernon told Cecily his name was Ernest. Neither Jack nor Algernon are actually called Ernest but of course Gwendolen and Cecily both think their love is called Ernest. Maddie and Morgan can't find Ernest anywhere on Instagram, someone misplaced a baby and Quin is just happy to be here.
