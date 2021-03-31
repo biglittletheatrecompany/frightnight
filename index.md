@@ -1,7 +1,8 @@
 ![Earnest](earnest.jpg)
 
 
-*"After 10 years of gracing the Mid-Canterbury stage, you know what to expect when you walk into a show put together by the rising starts of the Big Little Theatre Company.  That's a polished, well put together and brilliantly executed performance featuring remarkable young talent"*  (Ashburton Guardian, Nov 23, 2019: "A Shakespearean Masterpiece")
+*"After 10 years of gracing the Mid-Canterbury stage, you know what to expect when you walk into a show put together by the rising starts of the Big Little Theatre Company.  That's a polished, well put together and brilliantly executed performance featuring remarkable young talent"*  
+(Ashburton Guardian, Nov 23, 2019: "A Shakespearean Masterpiece")
 
 # Big Little Theatre Company presents *The Importance of being Earnest*
 
@@ -14,16 +15,16 @@ Confused? Good. You’ll just have to come along for a fun filled evening out to
 All Performaces are at 7:30pm.
 Tickets are $20 Adults / $15 Chile
 
-21/04: ASHBURTON EVENTS CENTRE:  [Book Tickets](ateventcentre.co.nz)
+21/04/2021: ASHBURTON EVENTS CENTRE:  [Book Tickets](ateventcentre.co.nz)
 
-22/4: LITTLE ANDROMEDA, CHRISTCHURCH: [Book Tickets](Littleandromeda.co.nz)
+22/4/2021: LITTLE ANDROMEDA, CHRISTCHURCH: [Book Tickets](Littleandromeda.co.nz)
 
-23/04:  ISAAC ROYAL, CHRISTCHURCH: [Book Tickets](Eventbrite.co.nz)
+23/04/2021:  ISAAC ROYAL, CHRISTCHURCH: [Book Tickets](Eventbrite.co.nz)
 
-24/04:  WINCHMORE HALL, Door Sales Only.
+24/04/2021:  WINCHMORE HALL, Door Sales Only.
 
 ## About the Director
 
 Since graduating from the National Academy of Singing and Dramatic Art (NASDA) with a Bachelor of Performing Arts in 2012 and The Actors’ Program in 2013, *Nomi Cohen* has worked on numerous projects both on and off the stage.  Her previous theatre credits include appearances at the Court Theatre in Much Ado About Nothing; Legally Blonde the Musical; Chicago and Jesus Christ Superstar. Other theatre credits include Catch Me If You Can the Musical (Blackboard Theatre Collective) and Lysistrata (Auckland Theatre Company). 
 
-!(bltc)[bltc.jpg]
+![bltc](bltc.jpg)
