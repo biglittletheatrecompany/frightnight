@@ -22,4 +22,8 @@ Tickets are $20 Adults / $15 Chile
 
 24/04:  WINCHMORE HALL, Door Sales Only.
 
+## About the Director
+
+Since graduating from the National Academy of Singing and Dramatic Art (NASDA) with a Bachelor of Performing Arts in 2012 and The Actors’ Program in 2013, *Nomi Cohen* has worked on numerous projects both on and off the stage.  Her previous theatre credits include appearances at the Court Theatre in Much Ado About Nothing; Legally Blonde the Musical; Chicago and Jesus Christ Superstar. Other theatre credits include Catch Me If You Can the Musical (Blackboard Theatre Collective) and Lysistrata (Auckland Theatre Company). 
+
 !(bltc)[bltc.jpg]
