@@ -1,39 +1,23 @@
 ![Earnest](earnest.jpg)
 
-## Welcome to GitHub Pages
+# About the Show
 
-You can use the [editor on GitHub](https://github.com/jenniferhay/earnest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+So what is the show about you ask? It’s a comedy of falsehoods, wit and questionable societal norms, Big Little Theatre Company's reimagining of Oscar Wilde's the Importance of Being Earnest will have you laughing out loud and hungry for a muffin.
+Jack is in love with Gwendolen. Algernon is in love with Cecily. Cecily is Jack's ward. Gwendolen is Algernon's cousin. Jack told Gwendolen his name was Ernest. Algernon told Cecily his name was Ernest. Neither Jack nor Algernon are actually called Ernest but of course Gwendolen and Cecily both think their love is called Ernest. Maddie and Morgan can't find Ernest anywhere on Instagram, someone misplaced a baby and Quin is just happy to be here.
+Confused? Good. You’ll just have to come along for a fun filled evening out to make sense of just who Ernest is and why he is so important.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Performances
 
-### Markdown
+All Performaces are at 7:30pm.
+Tickets are $20 Adults / $15 Chile
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+21/04: ASHBURTON EVENTS CENTRE:  [Book Tickets](ateventcentre.co.nz)
 
-```markdown
-Syntax highlighted code block
+22/4: LITTLE ANDROMEDA, CHRISTCHURCH: [Book Tickets](Littleandromeda.co.nz)
 
-# Header 1
-## Header 2
-### Header 3
+23/04:  ISAAC ROYAL, CHRISTCHURCH: [Book Tickets](Eventbrite.co.nz)
+Eventbrite.co.nz
 
-- Bulleted
-- List
+24/04:  WINCHMORE HALL, Door Sales Only.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jenniferhay/earnest/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
