@@ -15,13 +15,13 @@ Confused? Good. You’ll just have to come along for a fun filled evening out to
 All Performances are at 7:30pm.
 Tickets are $20 Adults / $15 Child
 
-21/04/2021: ASHBURTON EVENTS CENTRE:  [Book Tickets](http://ateventcentre.co.nz)
+21/04/2021: ASHBURTON EVENTS CENTRE
 
-22/4/2021: LITTLE ANDROMEDA, CHRISTCHURCH: [Book Tickets](http://Littleandromeda.co.nz)
+22/4/2021: LITTLE ANDROMEDA, CHRISTCHURCH
 
-23/04/2021:  ISAAC ROYAL, CHRISTCHURCH: [Book Tickets](http://Eventbrite.co.nz)
+23/04/2021:  ISAAC ROYAL, CHRISTCHURCH
 
-24/04/2021:  WINCHMORE HALL, Door Sales Only.
+24/04/2021:  WINCHMORE HALL
 
 ## About the Director
 
